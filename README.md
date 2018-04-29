@@ -10,7 +10,7 @@ For this project, we'll analyize a dataset from a marketing study done in San Fr
 It has 8 columns, both with categorical and continuous data. The problem is that the surveys were taken using pen and paper,
 and then transferred to the database by exhausted pollsters, and some mistakes were made. 
 
-**Are you up to the challenge of cleaning up and analyzing this dataset?**
+**Now the data is cleaned. Can you find interesting insights?**
 
 <img width="446" alt="difficulty" src="https://user-images.githubusercontent.com/7065401/39411347-544d5226-4c00-11e8-8ea3-bf81150ad7b4.png">
 
